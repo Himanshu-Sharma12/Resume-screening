@@ -1,0 +1,22 @@
+Divya Krishnan
+divya.krishnan@email.com | Bengaluru, India
+
+SUMMARY
+Data Science intern with 8 months of hands-on experience in EDA, machine learning,
+and dashboarding, strong communicator with a business mindset.
+
+EXPERIENCE
+Data Science Intern, Insight Analytics | May 2023 - Dec 2023
+- Conducted EDA using Pandas and NumPy to uncover trends in sales datasets
+- Built and evaluated classification models (Logistic Regression, Gradient Boosting)
+  using Scikit-learn
+- Created dashboards using Power BI and Tableau for weekly stakeholder reviews
+- Wrote SQL queries against a PostgreSQL data warehouse
+- Documented model results and presented to cross-functional teams
+
+SKILLS
+Python, Pandas, NumPy, Scikit-learn, SQL, Power BI, Tableau, EDA, Machine Learning,
+Gradient Boosting, Git, Data Visualization
+
+EDUCATION
+Bachelor of Technology, Computer Science, VIT Vellore, 2023
