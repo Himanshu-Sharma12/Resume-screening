@@ -1,0 +1,24 @@
+Sneha Reddy
+sneha.reddy@email.com | Hyderabad, India
+
+SUMMARY
+Fresh graduate with strong academic foundation in statistics and hands-on project
+experience in Python-based data analysis.
+
+PROJECTS
+House Price Prediction (Academic Project)
+- Built regression models (Linear Regression, Random Forest) using Scikit-learn
+- Performed data cleaning, feature engineering, and EDA using Pandas and NumPy
+- Evaluated model performance using R2 score and MSE
+- Visualized results using Matplotlib and Seaborn
+
+Customer Segmentation
+- Applied clustering algorithms to segment customers based on purchase behavior
+- Used Python, Pandas, and Scikit-learn
+
+SKILLS
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SQL, Statistics, EDA,
+Regression, Clustering, Git
+
+EDUCATION
+Bachelor of Technology in Statistics, Osmania University, 2024

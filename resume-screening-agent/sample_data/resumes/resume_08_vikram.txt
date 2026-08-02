@@ -1,0 +1,17 @@
+Vikram Chauhan
+vikram.chauhan@email.com | Jaipur, India
+
+SUMMARY
+Recent graduate in Mechanical Engineering exploring opportunities in data-driven
+roles, self-taught in Python through online courses.
+
+PROJECTS
+Sales Data Analysis (Self Project)
+- Analyzed sales data using Pandas
+- Created basic visualizations with Matplotlib
+
+SKILLS
+Python (basic), Excel, Pandas (basic), Mechanical CAD, SolidWorks, AutoCAD
+
+EDUCATION
+Bachelor of Engineering, Mechanical Engineering, MNIT Jaipur, 2024
