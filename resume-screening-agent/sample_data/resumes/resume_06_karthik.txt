@@ -1,0 +1,21 @@
+Karthik Subramaniam
+karthik.s@email.com | Coimbatore, India
+
+SUMMARY
+Data Analytics intern with 1 year of experience, strong Python and SQL skills,
+eager to grow into a full data science role.
+
+EXPERIENCE
+Data Analytics Intern, Take It Smart | Feb 2023 - Feb 2024 (1 year experience)
+- Assisted in data collection, cleaning, and preprocessing using Pandas and NumPy
+- Performed EDA to identify trends and patterns in datasets
+- Built classification models using Scikit-learn (Logistic Regression, Random Forest)
+- Worked with Matplotlib, Seaborn, and Power BI for visualization
+- Wrote SQL queries in MySQL for data extraction
+
+SKILLS
+Python, Pandas, NumPy, Scikit-learn, SQL, MySQL, Matplotlib, Seaborn, Power BI, Git,
+EDA, Data Cleaning, Machine Learning
+
+EDUCATION
+Bachelor of Engineering, Computer Science, PSG College of Technology, 2024
