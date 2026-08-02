@@ -1,9 +1,21 @@
 # Resume Screening Agent
 
-An AI agent that ranks a folder of resumes against a job description and outputs
-a scored, ordered shortlist with human-readable reasoning for each score.
+An end-to-end resume screening agent that ranks a folder of resumes against a
+job description and outputs a scored, ordered shortlist with human-readable
+reasoning for each score.
+
+One-sentence summary: this agent takes a job description and a folder of
+resumes, then produces a ranked shortlist with scores, matched skills, and
+plain-English reasoning.
 
 Built for the 24-hour AI Agent Challenge — **Category 1: HR & Recruitment**.
+
+## Challenge Checklist
+
+- Job Description: `sample_data/jd.txt`
+- Sample resumes: `sample_data/resumes/`
+- Ranked outputs: `sample_output/results.csv` and `sample_output/results.json`
+- Scoring method note: see [Scoring Method](#scoring-method)
 
 ---
 
@@ -65,8 +77,12 @@ This will:
 python screen_resumes.py --jd path/to/jd.txt --resumes path/to/resumes_folder --output path/to/output
 ```
 
-Supported resume formats: `.pdf`, `.docx`, `.txt`, `.md`. The `resumes` folder can
-contain any mix of these — the agent auto-detects the format per file.
+Supported resume formats: `.pdf`, `.docx`, `.txt`, `.md`, `.rtf`, and `.odt`.
+The `resumes` folder can contain nested subfolders, and the agent will best-effort
+try to parse any file it finds. If a file is malformed or text cannot be extracted,
+it is skipped without stopping the batch.
+
+Note: scanned/image-only PDFs still need OCR to be fully readable.
 
 ---
 
