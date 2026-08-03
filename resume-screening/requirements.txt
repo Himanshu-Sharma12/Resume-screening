@@ -1,0 +1,8 @@
+ollama
+fastapi
+uvicorn
+PyPDF2
+python-multipart
+requests
+streamlit
+pandas
